@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <sub><a href="https://portfolio-beta-murex-52.vercel.app/">Live portfolio ↗</a> &nbsp;·&nbsp; <a href="https://github.com/harshjha15335/gsoc-2026-final-report">GSoC 2026 final report</a> &nbsp;·&nbsp; <a href="https://qcdevs.org/">QC-Devs</a></sub>
+  <sub><a href="https://portfolio-beta-murex-52.vercel.app/">Live portfolio ↗</a> &nbsp;·&nbsp; <a href="https://github.com/harshjha15335/gsoc-2026-final-report">GSoC 2026 final report</a> &nbsp;·&nbsp; <a href="https://github.com/theochem/ffprime">FFPrime (QC-Devs)</a></sub>
 </p>
 
 <p align="center">
