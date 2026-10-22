@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="880" height="236" viewBox="0 0 880 236" role="img" aria-labelledby="title desc">
+<title id="title">harshjha15335 — profile banner</title>
+<desc id="desc">Avatar, handle and tagline: GSoC 2026 @ Theochem  ·  Full-stack &amp; AI engineering. Top languages by code size: TypeScript, Python, JavaScript, HTML.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0a1120"/><stop offset="1" stop-color="#04060c"/></linearGradient>
+<radialGradient id="gBlue"><stop offset="0" stop-color="#3b82f6" stop-opacity="0.42"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></radialGradient>
+<radialGradient id="gGreen"><stop offset="0" stop-color="#22c55e" stop-opacity="0.3"/><stop offset="1" stop-color="#22c55e" stop-opacity="0"/></radialGradient>
+<radialGradient id="gViolet"><stop offset="0" stop-color="#a855f7" stop-opacity="0.42"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></radialGradient>
+<radialGradient id="gTeal"><stop offset="0" stop-color="#2dd4bf" stop-opacity="0.3"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></radialGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3b82f6" stop-opacity=".75"/><stop offset=".45" stop-color="#22d3ee" stop-opacity=".45"/><stop offset=".72" stop-color="#a855f7" stop-opacity=".6"/><stop offset="1" stop-color="#2dd4bf" stop-opacity=".7"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#93c5fd" stop-opacity=".05"/><stop offset=".55" stop-color="#93c5fd" stop-opacity=".012"/><stop offset="1" stop-color="#000" stop-opacity=".25"/></linearGradient>
+<linearGradient id="floor" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3b82f6" stop-opacity="0"/><stop offset=".35" stop-color="#6366f1" stop-opacity=".55"/><stop offset=".6" stop-color="#a855f7" stop-opacity=".85"/><stop offset=".85" stop-color="#2dd4bf" stop-opacity=".55"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></linearGradient>
+<clipPath id="clip"><rect width="880" height="236" rx="18"/></clipPath>
+<clipPath id="avatarClip"><circle cx="88" cy="90" r="45"/></clipPath>
+<linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#60a5fa"/><stop offset=".6" stop-color="#22d3ee"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+<filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<style>
+  .sans{font-family:'Segoe UI', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif} .mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+  .drift{animation:drift 16s ease-in-out infinite alternate}
+  .drift2{animation:drift 21s ease-in-out -7s infinite alternate-reverse}
+  .breathe{animation:breathe 7s ease-in-out infinite}
+  .blink{animation:blink 1.1s steps(1) infinite}
+  @keyframes drift{from{transform:translate(-14px,-4px)}to{transform:translate(16px,6px)}}
+  @keyframes breathe{0%,100%{opacity:.75}50%{opacity:1}}
+  @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+  @media (prefers-reduced-motion:reduce){.drift,.drift2,.breathe,.blink,.anim{animation:none!important}}</style>
+</defs>
+<rect width="880" height="236" rx="18" fill="url(#bg)"/>
+<g clip-path="url(#clip)">
+<ellipse class="drift" cx="176" cy="11.8" rx="228.8" ry="177" fill="url(#gBlue)"/>
+<ellipse class="drift2" cx="563.2" cy="42.48" rx="264" ry="188.8" fill="url(#gGreen)"/>
+<ellipse class="drift" cx="528" cy="240.72" rx="237.6" ry="99.12" fill="url(#gViolet)"/>
+<ellipse class="drift2" cx="880" cy="188.8" rx="105.6" ry="118" fill="url(#gTeal)"/>
+<rect x="70.4" y="233.5" width="739.2" height="2.5" fill="url(#floor)" class="breathe"/>
+</g>
+<rect x="14" y="14" width="852" height="208" rx="14" fill="url(#glass)" stroke="#60a5fa" stroke-opacity=".32"/>
+<rect x=".75" y=".75" width="878.5" height="234.5" rx="17.25" fill="none" stroke="url(#edge)" stroke-opacity="1" stroke-width="1.5"/>
+
+<path d="M300 44 Q 440 28 600 58" fill="none" stroke="#60a5fa" stroke-opacity=".28"/>
+<circle cx="600" cy="58" r="2" fill="#93c5fd" class="breathe"/>
+<circle cx="88" cy="90" r="49" fill="none" stroke="url(#ring)" stroke-width="3" filter="url(#soft)"/>
+<circle cx="88" cy="90" r="45" fill="#e5e7eb"/>
+<image x="43" y="45" width="90" height="90" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice" href="data:image/png;base64,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" xlink:href="data:image/png;base64,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"/>
+<text x="160" y="64" class="mono" font-size="13" letter-spacing="1.6" fill="#9fb3c8">@harshjha15335</text>
+<text x="157" y="116" class="sans" font-size="46" font-weight="800" fill="#f0f6fc" letter-spacing="-.5">harshjha15335</text>
+<text x="160" y="144" class="sans" font-size="15" fill="#8b949e">GSoC 2026 @ Theochem  ·  Full-stack &amp; AI engineering</text>
+<g transform="translate(38,168)"><rect width="105" height="26" rx="13" fill="#0b1730" fill-opacity=".75" stroke="#3b82f6" stroke-opacity=".55"/>
+<circle cx="14" cy="13" r="3.2" fill="#3178c6"/><text x="23" y="17.4" class="mono" font-size="12" font-weight="700" fill="#d1d9e0">TypeScript</text></g>
+<g transform="translate(155,168)"><rect width="74.2" height="26" rx="13" fill="#0b1730" fill-opacity=".75" stroke="#3b82f6" stroke-opacity=".55"/>
+<circle cx="14" cy="13" r="3.2" fill="#3572A5"/><text x="23" y="17.4" class="mono" font-size="12" font-weight="700" fill="#d1d9e0">Python</text></g>
+<g transform="translate(241.2,168)"><rect width="105" height="26" rx="13" fill="#0b1730" fill-opacity=".75" stroke="#3b82f6" stroke-opacity=".55"/>
+<circle cx="14" cy="13" r="3.2" fill="#f1e05a"/><text x="23" y="17.4" class="mono" font-size="12" font-weight="700" fill="#d1d9e0">JavaScript</text></g>
+<g transform="translate(358.2,168)"><rect width="58.8" height="26" rx="13" fill="#0b1730" fill-opacity=".75" stroke="#3b82f6" stroke-opacity=".55"/>
+<circle cx="14" cy="13" r="3.2" fill="#e34c26"/><text x="23" y="17.4" class="mono" font-size="12" font-weight="700" fill="#d1d9e0">HTML</text></g>
+<text x="858" y="232" text-anchor="end" class="mono" font-size="8" fill="#6e7681" fill-opacity=".7">github.com/harshjha15335</text>
+</svg>

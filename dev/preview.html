@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Profile README preview</title>
+<style>
+  /* Development preview only. GitHub's real renderer is the profile page itself. */
+  :root { --bg: #0d1117; --fg: #e6edf3; --border: #30363d; }
+  :root[data-theme="light"] { --bg: #ffffff; --fg: #1f2328; --border: #d0d7de; }
+  body { margin: 0; background: var(--bg); color: var(--fg); font: 14px/1.5 -apple-system, "Segoe UI", sans-serif; }
+  .note { padding: 8px 16px; background: #9a6700; color: #fff; text-align: center; }
+  .note button { margin-left: 12px; }
+  main { max-width: 896px; margin: 24px auto; padding: 24px 16px; border: 1px solid var(--border); border-radius: 6px; }
+  p { text-align: center; margin: 0 0 16px; }
+  img { max-width: 100%; vertical-align: middle; }
+  a { color: #4493f8; }
+</style>
+</head>
+<body>
+<div class="note">Development preview — approximates github.com, it is not GitHub's renderer.
+  <button onclick="document.documentElement.dataset.theme = document.documentElement.dataset.theme === 'light' ? 'dark' : 'light'">Toggle light/dark</button></div>
+<main id="readme">Loading README.md…</main>
+<script>
+  // Mirrors the README's HTML: rewrites asset paths relative to this file.
+  fetch('../README.md').then(r => r.text()).then(md => {
+    document.getElementById('readme').innerHTML = md.replace(/src="assets\//g, 'src="../assets/');
+  }).catch(() => {
+    document.getElementById('readme').textContent = 'Serve the repository root (e.g. npx serve .) and open /dev/preview.html.';
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,96 @@
+{
+  "generated": "2026-10-22",
+  "user": {
+    "login": "harshjha15335",
+    "url": "https://github.com/harshjha15335",
+    "followers": 1,
+    "publicRepos": 17
+  },
+  "stars": 0,
+  "forks": 0,
+  "topLanguages": [
+    "TypeScript",
+    "Python",
+    "JavaScript",
+    "HTML"
+  ],
+  "contributions": {
+    "total": 216,
+    "source": "public-page",
+    "weeks": 53
+  },
+  "projects": [
+    {
+      "repo": "Portfolio",
+      "title": "Portfolio",
+      "url": "https://github.com/harshjha15335/Portfolio",
+      "homepage": "https://portfolio-beta-murex-52.vercel.app",
+      "language": "TypeScript",
+      "pushed": "2026-10-22",
+      "stars": 0,
+      "languages": {
+        "TypeScript": 1503702,
+        "Python": 190697,
+        "JavaScript": 95910,
+        "CSS": 89527,
+        "HTML": 13297,
+        "Shell": 1192
+      }
+    },
+    {
+      "repo": "RepoLens",
+      "title": "RepoLens",
+      "url": "https://github.com/harshjha15335/RepoLens",
+      "homepage": null,
+      "language": "Python",
+      "pushed": "2026-10-13",
+      "stars": 0,
+      "languages": {
+        "Python": 346598,
+        "TypeScript": 271564,
+        "HTML": 46423,
+        "JavaScript": 21013,
+        "CSS": 10777,
+        "Dockerfile": 3034,
+        "Makefile": 2364,
+        "Shell": 670,
+        "Batchfile": 566
+      }
+    },
+    {
+      "repo": "SENTINEL-",
+      "title": "SENTINEL",
+      "url": "https://github.com/harshjha15335/SENTINEL-",
+      "homepage": null,
+      "language": "Python",
+      "pushed": "2026-10-11",
+      "stars": 0,
+      "languages": {
+        "Python": 256279,
+        "TypeScript": 197559,
+        "Shell": 3612,
+        "CSS": 2522,
+        "JavaScript": 2015,
+        "Dockerfile": 1428,
+        "Mako": 704,
+        "HTML": 441
+      }
+    },
+    {
+      "repo": "NORTHSTAR",
+      "title": "NORTHSTAR",
+      "url": "https://github.com/harshjha15335/NORTHSTAR",
+      "homepage": null,
+      "language": "Python",
+      "pushed": "2026-09-29",
+      "stars": 0,
+      "languages": {
+        "Python": 254481,
+        "TypeScript": 112591,
+        "JavaScript": 3386,
+        "HTML": 637,
+        "Dockerfile": 534
+      }
+    }
+  ]
+}
