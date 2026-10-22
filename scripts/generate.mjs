@@ -46,7 +46,7 @@ const PROJECTS = [
   },
 ];
 
-const TAGLINE = 'GSoC 2026 @ Theochem  ·  Full-stack & AI engineering';
+const TAGLINE = 'GSoC 2026 @ QC-Devs · FFPrime  ·  Full-stack & AI engineering';
 
 const LANG_COLORS = {
   Python: '#3572A5', TypeScript: '#3178c6', JavaScript: '#f1e05a', HTML: '#e34c26',
